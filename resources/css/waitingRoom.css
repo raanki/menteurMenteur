@@ -16,3 +16,26 @@
     }
 }
 
+.r {
+    background-color: red;
+}
+
+.b {
+    background-color: blue;
+}
+
+.g {
+    background-color: green;
+}
+
+.y {
+    background-color: yellow;
+}
+
+.d {
+    background-color: black;
+}
+
+.log a:hover {
+    font-weight: bolder;
+}

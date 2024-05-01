@@ -26,7 +26,7 @@
         </h3>
     </div>
 
-    <img src="resources/image/logo.png" class="img-fluid ms-auto me-auto justify-content-center d-flex " alt="logo">
+    <img src="resources/image/logo.png" class="img-fluid ms-auto me-auto justify-content-center d-flex" style="width: 30%;" alt="logo">
 
     <div class="row menu d-grid gap-2 mx-auto col-12 align-items-center mt-5">
 
@@ -37,7 +37,7 @@
                    aria-describedby="inputGroup-sizing-default">
         </div>
 
-        <div class="row  mx-auto">
+        <div class="row  mx-auto mt-5">
             <button class="title btn btn-primary">Créer une partie</button>
         </div>
 

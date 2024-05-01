@@ -15,8 +15,47 @@
 <body>
 
 <?php require_once HEADER ?>
-<div class="container-background h-100">
-<h1>hello</h1>
+<div class="container-background" style="min-height: 800px;">
+
+    <div class="container r " style="width: 100%; max-width: none;">
+
+        <div class="row d-flex">
+
+            <div class="container-info-game col-9">
+
+                <div class="row rules-option d-flex h-75">
+
+                    <!--                    Dashboard Rules-->
+                    <div class="rules col-6 y">
+                        <h2>Les règles :</h2>
+
+                    </div>
+
+                    <!--                    Dashboard Options-->
+                    <div class="options col-6 d">
+                        <h2>Options :</h2>
+
+                    </div>
+
+                </div>
+
+                <!--                Dashboard Players-->
+                <div class="players-wait g" style="min-height: 400px">
+                    <h2>Les joueurs :</h2>
+
+                </div>
+
+            </div>
+
+            <!--            Chat-->
+            <div class="chat col-3 b" style="min-height: 400px">
+                <h2>Chat :</h2>
+
+            </div>
+
+        </div>
+
+    </div>
 </div>
 
 </body>
