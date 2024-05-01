@@ -1,4 +1,4 @@
-body {
+.container-background {
     background-image: url("resources/image/waitingRoomPc.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -7,7 +7,7 @@ body {
 }
 
 @media (max-width: 768px) {
-    body {
+    .container-background {
         background-image: url("resources/image/waitingRoomMobile.png");
         background-repeat: no-repeat;
         background-position: center;
