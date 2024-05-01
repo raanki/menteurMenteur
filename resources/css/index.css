@@ -1,3 +1,8 @@
 body {
-    background-color: #87CEE4;
+    background-color: #24344E;
+}
+
+.style-input::placeholder {
+    color: whitesmoke;
+    font-style: italic;
 }
