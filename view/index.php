@@ -38,7 +38,7 @@
 
             <div class="input-group d-flex justify-content-center">
 
-                <div class="code-field d-flex me-2">
+                <div class="code-field d-flex me-2 col-auto mb-2">
                     <span class="input-group-text style-input text-bg-dark border border-0 rounded-end-0 w-100"
                           id="basic-addon3">CODE</span>
 
@@ -47,7 +47,7 @@
 
                 </div>
 
-                <div class="join-btn col-4">
+                <div class="join-btn col-auto">
                     <button class="title btn btn-primary">Rejoindre une partie</button>
                 </div>
 
