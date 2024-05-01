@@ -1,0 +1,15 @@
+RewriteEngine On
+
+#View ***
+RewriteRule ^$ view/index.php [NC,L]
+
+
+
+
+
+
+
+#Ressource ***
+
+RewriteRule ^jquery$ resources/include/jquery.html [NC,L]
+RewriteRule ^bootstrap$ resources/include/bootstrap.html [NC,L]
