@@ -1,0 +1,18 @@
+body {
+    background-image: url("resources/image/waitingRoomPc.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+@media (max-width: 768px) {
+    body {
+        background-image: url("resources/image/waitingRoomMobile.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+}
+

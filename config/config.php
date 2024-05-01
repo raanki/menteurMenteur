@@ -5,6 +5,8 @@ const INCLUDE_PATH = __DIR__ . '/resources/include/';
 const CSS_PATH = __DIR__ . '/../' . 'resources/css/';
 const BOOTSTRAP_PATH = __DIR__ . '/../' . 'resources/include/bootstrap.html';
 const JQUERY_PATH = __DIR__ . '/../' . 'resources/include/jquery.html';
+const HEADER = __DIR__ . '/../' . 'view/header.php';
+const FOOTER = __DIR__ . '/../' . 'view/footer.php';
 
 #COLOR
 
