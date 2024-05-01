@@ -36,6 +36,15 @@
     background-color: black;
 }
 
+.li {
+    list-style-type: none;
+}
+
 .log a:hover {
     font-weight: bolder;
+}
+
+.style-input::placeholder {
+    color: whitesmoke;
+    font-style: italic;
 }
